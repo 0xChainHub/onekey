@@ -122,8 +122,5 @@
     "commitizen": {
       "path": "./node_modules/cz-lerna-changelog"
     }
-  },
-  "resolusions": {
-    "**/@babel/plugin-transform-typescript": "7.17"
   }
 }
